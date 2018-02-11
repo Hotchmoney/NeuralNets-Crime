@@ -1,0 +1,22 @@
+The following are the index and what they contain of the Kingston_Police_Formatted
+
+
+0:1st incident type
+1:2nd incident type
+2:3rd incident type
+3:4th incident type
+4:5th incident type
+5:6th incident type
+6:time in seconds since 1970
+7:incident latitude
+8:incident longitude
+9:normalized lat
+10:normalized long
+11:sin cos hour of year (sin)
+12:sin cos hour of year (cos)
+13:Hour of Day Cos
+14:Hour of Day sin
+15:Day of Year
+16:Day of Week
+17:Week of Year
+18:Year
